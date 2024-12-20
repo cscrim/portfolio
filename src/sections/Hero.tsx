@@ -34,7 +34,7 @@ export const HeroSection = () => {
             </h1>
             <p className="mt-4 mb-6 text-center text-white/80 md:text-lg">
               Second-year Computer Science student at the University of Guelph
-              and recent graduate of BrainStation's Software Engineering
+              and recent graduate of BSTN Software Engineering
               bootcamp. Alongside 8+ YOE in SaaS Customer Success, Operations,
               and Project Management, I specialize in building scalable,
               user-centric applications using modern tech stacks.
