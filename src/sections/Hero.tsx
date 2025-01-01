@@ -25,9 +25,10 @@ export const HeroSection = () => {
               <div className="bg-green-500 absolute inset-0 rounded-full animate-pingLarge"></div>
             </div>
             <div className="text-small font-medium">
-              Seeking a Software Engineering Role
+              Seeking Software Engineering & Product Manager Roles
             </div>
           </div>
+        
           <div className="max-w-lg mx-auto">
             <h1 className="text-3xl md:text-5xl text-center mt-10 mb-6 tracking-wide font-bold">
               Hi, I'm Courtney!
