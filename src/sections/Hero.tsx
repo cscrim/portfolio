@@ -89,8 +89,8 @@ export const HeroSection = () => {
               <span>LeetCode</span>
             </a>
 
-            {/* <a
-              href="#"
+            <a
+              href="https://cscrim.github.io/virtual_resume/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-black bg-[#7be5b8] border border-black px-6 py-3 rounded-full inline-flex items-center gap-3 hover:bg-[#52d19d] transition-all"
@@ -102,7 +102,7 @@ export const HeroSection = () => {
                 height={24}
               />
               <span>Resume</span>
-            </a> */}
+            </a>
           </div>
 
           <div className="flex flex-col md:flex-row justify-center items-center mt-8 gap-4">
